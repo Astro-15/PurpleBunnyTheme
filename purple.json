@@ -1,6 +1,6 @@
 {
-    "name": "Purple",
-    "description": "Purple & Black Theme",
+    "name": "Purple & Black
+    "description": "Just a Purple & Black theme",
     "version": "1",
     "authors": [
         {
@@ -82,7 +82,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#4A4A4A35"
         ],
         "EMBED_BACKGROUND": [
             "#000000"
@@ -204,7 +204,7 @@
     },
     "plus": {
         "version": 0,
-        "mentionLineColor": "#A020F0",
+        "mentionLineColor": "#0f0",
         "iconpack": "materialtwotone"
     },
     "spec": 2
