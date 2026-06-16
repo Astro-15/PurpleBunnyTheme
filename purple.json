@@ -207,11 +207,5 @@
         "mentionLineColor": "#A020F0",
         "iconpack": "materialtwotone"
     },
-    "background": {
-        "blur": 0.6,
-        "url":
-"https://raw.githubusercontent.com/Astro-15/PurpleBunnyTheme/main/Background/galaxy.JPG",
-        "alpha": 1
-    },
     "spec": 2
 }
